@@ -1,3 +1,6 @@
 [submodule "token-up"]
 	path = token-up
 	url = https://github.com/brownierin/token-up.git
+[submodule "toorcon2019"]
+	path = toorcon2019
+	url = https://github.com/brownierin/toorcon2019.git
