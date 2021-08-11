@@ -7,3 +7,6 @@
 [submodule "cryptoscarf"]
 	path = cryptoscarf
 	url = https://github.com/brownierin/cryptoscarf.git
+[submodule "static-analysis"]
+	path = static-analysis
+	url = git@github.com:brownierin/static-analysis.git
